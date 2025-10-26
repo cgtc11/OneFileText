@@ -1,4 +1,5 @@
-![OneFileText01](https://github.com/user-attachments/assets/77ddc9d6-9784-41f6-96e7-aab8ed70d8ec)
+Downloadフォルダに「OneFileText.exe」実行ファイル入れてます</br>
+![OneFileText01](https://github.com/user-attachments/assets/77ddc9d6-9784-41f6-96e7-aab8ed70d8ec)</br>
 </br>
 txtファイルを複数入れて「実行」を押すと１つのtxtにする</br>
 例えば</br>
