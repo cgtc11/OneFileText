@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Onefiletext_256x256.ico</ApplicationIcon>
+    <ApplicationIcon>Onefiletext2.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -83,12 +83,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Onefiletext_128x128.ico" />
-    <Content Include="Onefiletext_16x16.ico" />
-    <Content Include="Onefiletext_256x256.ico" />
-    <Content Include="Onefiletext_32x32.ico" />
-    <Content Include="Onefiletext_64x64.ico" />
-    <Content Include="Onefiletext_8x8.ico" />
+    <Content Include="Onefiletext2.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
